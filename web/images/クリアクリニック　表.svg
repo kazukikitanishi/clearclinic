@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330.405" height="114.01" viewBox="0 0 330.405 114.01">
+  <g id="グループ_51" data-name="グループ 51" transform="translate(-836.095 -20.5)">
+    <g id="グループ_8" data-name="グループ 8">
+      <g id="グループ_7" data-name="グループ 7">
+        <g id="グループ_6" data-name="グループ 6">
+          <g id="グループ_5" data-name="グループ 5">
+            <line id="線_1" data-name="線 1" x2="330.405" transform="translate(836.095 49.455)" fill="none" stroke="#707070" stroke-width="0.5"/>
+            <line id="線_2" data-name="線 2" x2="330.405" transform="translate(836.095 76.6)" fill="none" stroke="#707070" stroke-width="0.5"/>
+            <line id="線_3" data-name="線 3" x2="330.405" transform="translate(836.095 103.745)" fill="none" stroke="#707070" stroke-width="0.5"/>
+            <text id="_9_00_12_00" data-name="9：00〜12：00" transform="translate(846 67)" fill="#707070" font-size="12" font-family="HiraKakuProN-W3, Hiragino Kaku Gothic ProN"><tspan x="0" y="0">9：00〜12：00</tspan></text>
+            <text id="_13_00_16_00" data-name="13：00〜16：00" transform="translate(841 94)" fill="#707070" font-size="12" font-family="HiraKakuProN-W3, Hiragino Kaku Gothic ProN"><tspan x="0" y="0">13：00〜16：00</tspan></text>
+            <text id="_17_00_19_00" data-name="17：00〜19：00" transform="translate(841 122)" fill="#707070" font-size="12" font-family="HiraKakuProN-W3, Hiragino Kaku Gothic ProN"><tspan x="0" y="0">17：00〜19：00</tspan></text>
+            <line id="線_4" data-name="線 4" y2="114.01" transform="translate(951.148 20.5)" fill="none" stroke="#707070" stroke-width="0.5"/>
+            <text id="診察時間" transform="translate(868 40)" fill="#707070" font-size="12" font-family="HiraKakuProN-W3, Hiragino Kaku Gothic ProN"><tspan x="0" y="0">診察時間</tspan></text>
+            <line id="線_5" data-name="線 5" y2="114.01" transform="translate(981.913 20.5)" fill="none" stroke="#707070" stroke-width="0.5"/>
+            <line id="線_6" data-name="線 6" y2="114.01" transform="translate(1043.442 20.5)" fill="none" stroke="#707070" stroke-width="0.5"/>
+            <line id="線_7" data-name="線 7" y2="114.01" transform="translate(1074.206 20.5)" fill="none" stroke="#707070" stroke-width="0.5"/>
+            <line id="線_8" data-name="線 8" y2="114.01" transform="translate(1012.677 20.5)" fill="none" stroke="#707070" stroke-width="0.5"/>
+            <line id="線_9" data-name="線 9" y2="114.01" transform="translate(1104.971 20.5)" fill="none" stroke="#707070" stroke-width="0.5"/>
+            <line id="線_10" data-name="線 10" y2="114.01" transform="translate(1135.735 20.5)" fill="none" stroke="#707070" stroke-width="0.5"/>
+            <text id="月" transform="translate(960 40)" fill="#707070" font-size="13" font-family="HiraKakuProN-W3, Hiragino Kaku Gothic ProN"><tspan x="0" y="0">月</tspan></text>
+            <text id="火" transform="translate(991 40)" fill="#707070" font-size="13" font-family="HiraKakuProN-W3, Hiragino Kaku Gothic ProN"><tspan x="0" y="0">火</tspan></text>
+            <text id="水" transform="translate(1022 40)" fill="#707070" font-size="13" font-family="HiraKakuProN-W3, Hiragino Kaku Gothic ProN"><tspan x="0" y="0">水</tspan></text>
+            <text id="木" transform="translate(1053 40)" fill="#707070" font-size="13" font-family="HiraKakuProN-W3, Hiragino Kaku Gothic ProN"><tspan x="0" y="0">木</tspan></text>
+            <text id="金" transform="translate(1083 40)" fill="#707070" font-size="13" font-family="HiraKakuProN-W3, Hiragino Kaku Gothic ProN"><tspan x="0" y="0">金</tspan></text>
+            <text id="土" transform="translate(1114 40)" fill="#707070" font-size="13" font-family="HiraKakuProN-W3, Hiragino Kaku Gothic ProN"><tspan x="0" y="0">土</tspan></text>
+            <text id="日" transform="translate(1145 40)" fill="#707070" font-size="13" font-family="HiraKakuProN-W3, Hiragino Kaku Gothic ProN"><tspan x="0" y="0">日</tspan></text>
+            <ellipse id="楕円形_1" data-name="楕円形 1" cx="6" cy="6.5" rx="6" ry="6.5" transform="translate(960 56)" fill="#0abbfc"/>
+            <circle id="楕円形_9" data-name="楕円形 9" cx="6.5" cy="6.5" r="6.5" transform="translate(991 111)" fill="#0abbfc"/>
+            <circle id="楕円形_3" data-name="楕円形 3" cx="6.5" cy="6.5" r="6.5" transform="translate(991 57)" fill="#0abbfc"/>
+            <circle id="楕円形_10" data-name="楕円形 10" cx="6.5" cy="6.5" r="6.5" transform="translate(1021 57)" fill="#0abbfc"/>
+            <circle id="楕円形_11" data-name="楕円形 11" cx="6.5" cy="6.5" r="6.5" transform="translate(1021 83)" fill="#0abbfc"/>
+            <circle id="楕円形_5" data-name="楕円形 5" cx="6.5" cy="6.5" r="6.5" transform="translate(991 84)" fill="#0abbfc"/>
+            <circle id="楕円形_12" data-name="楕円形 12" cx="6.5" cy="6.5" r="6.5" transform="translate(1053 57)" fill="#0abbfc"/>
+            <circle id="楕円形_17" data-name="楕円形 17" cx="6.5" cy="6.5" r="6.5" transform="translate(1083 57)" fill="#0abbfc"/>
+            <circle id="楕円形_18" data-name="楕円形 18" cx="6.5" cy="6.5" r="6.5" transform="translate(1083 83)" fill="#0abbfc"/>
+            <circle id="楕円形_20" data-name="楕円形 20" cx="6.5" cy="6.5" r="6.5" transform="translate(1053 111)" fill="#0abbfc"/>
+            <circle id="楕円形_19" data-name="楕円形 19" cx="6.5" cy="6.5" r="6.5" transform="translate(1083 111)" fill="#0abbfc"/>
+            <ellipse id="楕円形_16" data-name="楕円形 16" cx="6" cy="6.5" rx="6" ry="6.5" transform="translate(1114 57)" fill="#0abbfc"/>
+            <ellipse id="楕円形_2" data-name="楕円形 2" cx="6" cy="6.5" rx="6" ry="6.5" transform="translate(960 111)" fill="#0abbfc"/>
+            <line id="線_11" data-name="線 11" x2="12.668" transform="translate(960.196 90.173)" fill="none" stroke="#707070" stroke-width="1"/>
+            <line id="線_15" data-name="線 15" x2="12.668" transform="translate(1145.689 63.027)" fill="none" stroke="#707070" stroke-width="1"/>
+            <line id="線_18" data-name="線 18" x2="12.668" transform="translate(1114.019 90.173)" fill="none" stroke="#707070" stroke-width="1"/>
+            <line id="線_19" data-name="線 19" x2="12.668" transform="translate(1114.019 117.318)" fill="none" stroke="#707070" stroke-width="1"/>
+            <line id="線_16" data-name="線 16" x2="12.668" transform="translate(1145.689 90.173)" fill="none" stroke="#707070" stroke-width="1"/>
+            <line id="線_17" data-name="線 17" x2="12.668" transform="translate(1145.689 117.318)" fill="none" stroke="#707070" stroke-width="1"/>
+            <line id="線_12" data-name="線 12" x2="12.668" transform="translate(1021.726 118.223)" fill="none" stroke="#707070" stroke-width="1"/>
+            <line id="線_13" data-name="線 13" x2="12.668" transform="translate(1052.49 90.173)" fill="none" stroke="#707070" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

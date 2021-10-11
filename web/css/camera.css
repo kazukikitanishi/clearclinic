@@ -1,0 +1,206 @@
+@charset "UTF-8";
+html{
+    font-size: 62.5%;
+    }
+    body{
+    font-family: -apple-system,BlinkMacSystemFont,"Helvetica Neue","Segoe UI",
+    "Hiragino Kaku Gothic ProN",Meiryo,sans-serif;
+}
+/* body{
+    min-width:1000px;
+    margin:0 auto;
+} */
+
+.contain{
+    width: 100vw;
+    /* max-width: 1000px; */
+    /* min-width: 700px; */
+    /* margin: 0 auto; */
+    width: 1000px;
+    margin: 0 auto;
+}
+
+header{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+h1{
+    margin-top: 31px;
+    margin-left: 3px;
+}
+
+.g_navi{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.table{
+    display: flex;
+}
+
+.tel{
+    margin-top: 80px;
+    margin-left: 10px;
+}
+
+.navi{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    margin-top: 27px;
+
+}
+
+.navi li{
+    width: 25%;
+    font-size: 1.6rem;
+}
+
+.navi li a{
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    color: #303030;
+    transition: 0.23s;
+}
+
+.navi li a:hover{
+    background-color: #9DD5FF;
+    color: white;
+}
+
+.camera{
+    font-family:"A P-OTF A1ゴシック Std";
+    font-weight: normal;
+    font-size: 3rem;
+    width: 100vw;
+    background-color: #9DD5FE;
+    height: 132px;
+    text-align: center;
+    line-height: 132px;
+    color: #fff;
+}
+
+.contain .use{
+    font-size: 3rem;
+    padding: 5px;
+    border-bottom: solid 2px #0ABBFC;
+    color: #202020;
+    font-weight: lighter;
+    counter-reset: #303030;
+}
+
+
+
+
+
+
+.footer_flex{
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    margin: 115px auto 0 auto;
+}
+
+footer p{
+    font-size: 2rem;
+    margin: 8px 0;
+}
+
+
+.map{
+    width: 443px;
+    height: 377px;
+    background-color: #707070;
+    overflow: hidden;
+}
+
+.footer_tel{
+    margin-top: 16px;
+}
+
+small{
+    text-align: center;
+    display: block;
+    font-size: 1.6rem;
+    background-color: #c4c4c4;
+    width: 100vw;
+    height: 35px;
+    position: relative;
+    line-height: 35px;
+    font-size: 1.6rem;
+    margin-top: 101px;
+}
+
+.procedure{
+    text-align: left;
+    margin: 0 auto;
+    width: 700px;
+}
+
+ol{
+    list-style: none;
+    font-size: 1.8rem;
+}
+
+.procedure li{
+    display: flex;
+    margin: 40px auto;
+}
+
+.procedure p{
+    text-align: center;
+    width: 100%;
+}
+
+.account_img{
+    background-image: url(../images/human.svg);
+    background-repeat: no-repeat;
+    width:125px;
+    height: 44px;
+}
+
+.photo_img{
+    background-image: url(../images/photo.svg);
+    background-repeat: no-repeat;
+    height: 54px;
+    width: 130px;
+}
+
+.AI_img{
+    background-image: url(../images/AI.svg);
+    background-repeat: no-repeat;
+    width: 132px;
+    height: 60px;
+
+}
+
+.hospital::before{
+    content: '';
+    background-image: url(../images/hospital.svg);
+    background-repeat: no-repeat;
+    width: 131px;
+    height: 82px;
+}
+
+.line{
+    border-left: black solid 1px;
+    height: 70px;
+    width: 1px;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+

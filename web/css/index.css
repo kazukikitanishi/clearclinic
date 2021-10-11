@@ -1,0 +1,249 @@
+@charset "UTF-8";
+html{
+    font-size: 62.5%;
+    }
+    body{
+    font-family: -apple-system,BlinkMacSystemFont,"Helvetica Neue","Segoe UI",
+    "Hiragino Kaku Gothic ProN",Meiryo,sans-serif;
+}
+/* body{
+    min-width:1000px;
+    margin:0 auto;
+} */
+
+main{
+    width: 100vw;
+    /* max-width: 1000px; */
+    /* min-width: 700px; */
+    /* margin: 0 auto; */
+}
+
+header{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+h1{
+    margin-top: 31px;
+    margin-left: 3px;
+}
+
+.g_navi{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.table{
+    display: flex;
+}
+
+.tel{
+    margin-top: 80px;
+    margin-left: 10px;
+}
+
+.navi{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    margin-top: 27px;
+
+}
+
+.navi li{
+    width: 25%;
+    font-size: 1.6rem;
+}
+
+.navi li a{
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    color: #303030;
+    transition: 0.23s;
+
+}
+
+.navi li a:hover{
+    background-color: #9DD5FF;
+    color: white;
+}
+
+.mainimg{
+    position: relative;
+    width: 100%;
+    height: 645px;    
+    background-image: url(../images/AdobeStock_108332309.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center -109px;
+}
+/* 
+.mainimg{
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+} */
+
+/* .mainimg .gra{
+    width: 50%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    background: linear-gradient(to left,transparent  0% ,white 25% ,white 75% , transparent 100%);
+} */
+
+.maintxt{
+    z-index: 1;
+    position: absolute;
+    top: 384px;
+    left: 8%;
+    text-align: center;
+}
+
+.maintxt_first{
+    font-size: 4rem;
+    margin-bottom: 25.3px;
+    font-family: 凸版文久明朝, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.maintxt_first span{
+    color: #3EBCFF;
+}
+
+.maintxt_last{
+    font-size: 2.4rem;
+    margin-top: 49.2px;
+    font-family:  "D黎ミン　簡体字　Gb4", Verdana, Geneva, Tahoma, sans-serif;
+    color: #303030;
+}
+
+.newswrapper{
+    width: 1000px;
+    margin: 42px auto 0 auto ;
+}
+
+.news{
+    width: 100%;
+    border-left:  1px solid #00BEF9;
+    border-right:  1px solid #00BEF9;
+    border-bottom:  1px solid #00BEF9;
+}
+
+.news h2{
+    background-color: #9DD5FF;
+    width: 100%;
+    text-align: center;
+    height: 53px;
+    line-height: 53px;
+    color: white;
+    font-size: 3rem;
+    font-family: SimSong, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.news ul{
+    /* margin-top: 31px;
+    margin-bottom: 145px;
+    margin-left: 34px; */
+    margin: 31px 0 145px 34px;
+}
+
+.news ul li:first-child{
+    padding-bottom: 25px;
+}
+
+.news li{
+    list-style: none;
+    font-size: 1.6rem;
+    
+}
+
+.news span{
+    margin: 0 108px 0 108px;
+}
+
+.notice{
+    font-size: 3rem;
+    width: 1000px;
+    margin:84px auto 0 auto;
+}
+
+.aboutwrapper{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.aboutwrapper h2{
+    border-bottom: 2px solid #00BEF9;
+}
+
+.aboutwrapper p{
+    font-size: 1.6rem;
+}
+
+.about_img{
+    width: 335px;
+    height: 353px;
+    /* border: solid 1px burlywood; */
+    background-image: url(../images/AdobeStock_333354078.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+.about_flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.about_flex p{
+    width: 495px;
+    
+}
+
+
+
+
+.footer_flex{
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    margin: 115px auto 0 auto;
+}
+
+footer p{
+    font-size: 2rem;
+    margin: 8px 0;
+}
+
+/* .footer_flex{
+    display: flex;
+} */
+
+.map{
+    width: 443px;
+    height: 377px;
+    background-color: #707070;
+    overflow: hidden;
+}
+
+.footer_tel{
+    margin-top: 16px;
+}
+
+small{
+    text-align: center;
+    display: block;
+    font-size: 1.6rem;
+    background-color: #c4c4c4;
+    width: 100vw;
+    height: 35px;
+    position: relative;
+    line-height: 35px;
+    font-size: 1.6rem;
+    margin-top: 101px;
+}
